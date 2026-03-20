@@ -67,6 +67,6 @@ h1 {
         width: 210mm;
         min-height: 297mm;
         padding: 25mm;
-        margin: ;
+        margin: "0";
     }
 }
