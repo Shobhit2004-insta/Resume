@@ -22,8 +22,8 @@ body{
 
 /* NAME */
 h1{
-    text-align:center;
-    font-size:22px;
+    text-align:left;
+    font-size:25px;
     margin-bottom:5px;
     color:#2f5fb3;
 }
@@ -54,8 +54,7 @@ h1{
 }
 
 .project-links{
-    text-align:center;
-    font-size:13px;
+    font-size: 11px;
     margin-bottom:10px;
 }
 
@@ -108,10 +107,6 @@ ul li{
     margin-bottom:12px;
 }
 
-/* LINKS CONTAINER */
-.project-links{
-    margin-top:4px;
-}
 
 
 /* OPTIONAL HOVER EFFECT */
