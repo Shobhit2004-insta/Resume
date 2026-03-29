@@ -48,7 +48,7 @@ This project is designed to showcase my resume in a web format, making it easy t
 
 ## 🔗 Live Demo
 
-[https://shobhit2004-insta.github.io/Resume/]
+https://shobhit2004-insta.github.io/Resume/
 
 ---
 
